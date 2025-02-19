@@ -10,43 +10,43 @@ const Backend = () => {
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Node.JS</h3>
+                    <span className="skills__level">Intermediat</span>
                 </div>
             </div>
 
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">CSS</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Express.JS</h3>
+                    <span className="skills__level">Basic </span>
                 </div>
             </div>
 
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">JavaScript</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Mongodb</h3>
+                    <span className="skills__level">Basic </span>
                 </div>
             </div>
         </div>
 
 
-        <div className="skills__group">
+        {/* <div className="skills__group">
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Django</h3>
+                    <span className="skills__level">Intermediate </span>
                 </div>
             </div>
 
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">MySQL</h3>
+                    <span className="skills__level">Intermediate </span>
                 </div>
             </div>
     
@@ -54,11 +54,11 @@ const Backend = () => {
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Linux</h3>
+                    <span className="skills__level">Intermediate </span>
                 </div>
             </div>
-            </div>
+            </div> */}
 
     </div>
 
